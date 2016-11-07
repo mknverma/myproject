@@ -3,4 +3,33 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="bg_login">#26ae90</color>
+    <color name="bg_register">#2e3237</color>
+    <color name="bg_main">#428bca</color>
+    <color name="white">#ffffff</color>
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#888888</color>
+    <color name="input_register_bg">#3b4148</color>
+    <color name="input_register_hint">#5e6266</color>
+
+
+    <!--Login Page Colors -->
+
+    <color name="btn_login_txt">#FFFFFF</color>
+    <color name="btn_login_bg">#FF4500</color>
+    <color name="btn_login_bg_active">#ff6a33</color>
+    <color name="btn_login_fb_bg">#3b5998</color>
+    <color name="btn_login_fb_bg_active">#4e69a2</color>
+    <color name="btn_login_tw_bg">#4099ff</color>
+    <color name="btn_login_tw_bg_active">#66adff</color>
+
+
+
+
+    <color name="lbl_name">#333333</color>
+    <color name="btn_logut_bg">#ff6861</color>
+
+
 </resources>
